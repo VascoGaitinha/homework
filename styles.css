@@ -1,0 +1,28 @@
+header{
+  background-color: red;
+  background:url(.\apple-pie\images\apple-pie.jpg);
+  background-size: cover;
+}
+hr{
+    width:75%;
+    margin:0 auto;
+}
+
+section{
+  margin: 0 0 0 70px; 
+}
+
+img{
+  width: 250px;
+  margin:0 50%;
+}
+
+article{
+  font-size: 2em;
+  margin: 0 10%;
+}
+
+section{
+  margin: 0 12.5%;
+  font-size: 1em;
+}
